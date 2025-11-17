@@ -44,7 +44,7 @@ $$
 \varphi(60) = 60 \left(1 - \frac{1}{2}\right)\left(1 - \frac{1}{3}\right)\left(1 - \frac{1}{5}\right) = 16
 $$
 
-### (b) Use Euler’s theorem to compute $ 7^{24} \pmod{60} $.
+### (b) Use Euler’s theorem to compute $7^{24} \pmod{60}$.
 
 Euler’s theorem says:
 
